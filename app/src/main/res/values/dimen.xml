@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_text_small">24sp</dimen>
+    <dimen name="bottom_text_big">34sp</dimen>
+    <dimen name="textView_text_small">34sp</dimen>
+    <dimen name="textView_text_big">42sp</dimen>
+</resources>
